@@ -1,7 +1,7 @@
 
-## Manhunt SFX Tool (for PC version) by rzhumen88
+# Manhunt SFX Tool (for PC version) by rzhumen88
 
-# Usage:
+## Usage:
 
 1. Copy manhunt sfx tool.py inside [manhunt folder]\audio\PC\SFX\
 2. Launch the file with latest python installed.
